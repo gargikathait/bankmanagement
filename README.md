@@ -1,4 +1,4 @@
-# bankmanagement
+# bank management
 
 Customer:
 Perform transactions (deposit, withdraw, transfer)
